@@ -1,0 +1,3 @@
+[submodule "AmpGen"]
+	path = AmpGen
+	url = git@github.com:GooFit/AmpGen.git
